@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;n&apos; in &apos;practice.Leet_Palindrome.isPalindrome(...)&apos; to &apos;temp&apos;&#x0D;&#x0A;- Original project: &apos;Java_Basic&apos;&#x0D;&#x0A;- Original element: &apos;practice.Leet_Palindrome.isPalindrome(int).n&apos;&#x0D;&#x0A;- Renamed element: &apos;n&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;n&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;practice{Leet_Palindrome.java[Leet_Palindrome~isPalindrome~I@n!184!188!188!188!I!0!true" name="temp" references="true" stamp="1665218251210" version="1.0"/>
+</session>

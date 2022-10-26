@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;control_Statement.For_Loop&apos; to &apos;Forloop&apos;&#x0D;&#x0A;- Original project: &apos;Interview_Preparation&apos;&#x0D;&#x0A;- Original element: &apos;control_Statement.For_Loop&apos;&#x0D;&#x0A;- Renamed element: &apos;control_Statement.Forloop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;For_Loop&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;control_Statement{For_Loop.java[For_Loop" matchStrategy="1" name="Forloop" qualified="false" references="true" similarDeclarations="false" stamp="1657177910465" textual="false" version="1.0"/>
+</session>

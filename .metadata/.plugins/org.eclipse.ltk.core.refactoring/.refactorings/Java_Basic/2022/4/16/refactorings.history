@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Array_task.java&apos; to &apos;string.Array_task2.java&apos;&#x0D;&#x0A;- Original project: &apos;Java_Basic&apos;&#x0D;&#x0A;- Destination element: &apos;string.Array_task2.java&apos;&#x0D;&#x0A;- Original element: &apos;string.Array_task.java&apos;" description="Copy compilation unit" destination="/src&lt;string{Array_task2.java" element1="/src&lt;string{Array_task.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1649733982262" units="1" version="1.0"/>
+</session>

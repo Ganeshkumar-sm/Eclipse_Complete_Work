@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;switch_case&apos; to &apos;switch_Statement&apos;&#x0D;&#x0A;- Original project: &apos;Control_Statement&apos;&#x0D;&#x0A;- Original element: &apos;Control_Statement/src/switch_case&apos;&#x0D;&#x0A;- Renamed element: &apos;Control_Statement/src/switch_Statement&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;switch_case&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;switch_case" name="switch_Statement" qualified="false" references="true" stamp="1648112261872" textual="false" version="1.0"/>
+</session>

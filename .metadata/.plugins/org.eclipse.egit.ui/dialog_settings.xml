@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Ganeshkumar-sm/selenium.git"/>
+		<item value="https://github.com/Ganeshkumar-sm/Selenium.git"/>
+		<item value="https://github.com/Ganeshkumar-sm/CucumberFramework.git"/>
+		<item value="https://github.com/Ganeshkumar-sm/CucumberFrameWork.git"/>
+		<item value="https://github.com/bonigarcia/bonigarcia.github.io.git"/>
+		<item value="https://github.com/Ganeshkumar-sm/Pageobjectmodelcode.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Ganeshkumar-sm &lt;ganesh.sm016@gmail.com&gt;"/>
+		<item value="Ganesh-sm &lt;ganesh.sm016@gmail.com&gt;"/>
+		<item value="USERi &lt;USERi@DESKTOP-HJ&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Ganeshkumar-sm &lt;ganesh.sm016@gmail.com&gt;"/>
+		<item value="Ganesh-sm &lt;ganesh.sm016@gmail.com&gt;"/>
+		<item value="USERi &lt;USERi@DESKTOP-HJ&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\USERi\eclipse-workspace\.git">
+			<item value="false"/>
+			<item value="USERi &lt;USERi@DESKTOP-HJ&gt;"/>
+			<item value="initial commit"/>
+			<item value="USERi &lt;USERi@DESKTOP-HJ&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\USERi\git\CucumberFrameWork\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\USERi\eclipse-workspace\Selenium_Training\.git">
+			<item value="false"/>
+			<item value="Ganesh-sm &lt;ganesh.sm016@gmail.com&gt;"/>
+			<item value="commited by Ganesh"/>
+			<item value="Ganesh-sm &lt;ganesh.sm016@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\USERi\git\Selenium\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\USERi\git\repository\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+</section>
