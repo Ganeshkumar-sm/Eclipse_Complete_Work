@@ -28,6 +28,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="CucumberFramework.TestLeaf"/>
 			<item value="CucumberFramework.CucumberFramework"/>
 			<item value="com.CucumberFrameWork"/>
 			<item value="Cucumber.Framework"/>
@@ -44,6 +45,7 @@
 			<item value="Automation_Practice"/>
 		</list>
 		<list key="artifactId">
+			<item value="TestLeaf"/>
 			<item value="CucumberFramework"/>
 			<item value="CucumberFrameWork"/>
 			<item value="Framework"/>
