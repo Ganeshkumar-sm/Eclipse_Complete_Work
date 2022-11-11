@@ -7,7 +7,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 @CucumberOptions(
 		features = "./Featurefile/login.feature", 
 		
-		glue = "com.webapp.stepdefinition",
+		glue = "./com/webapp/stepdefinition/StepDefinition.java",
 		
 		dryRun = true,
 		

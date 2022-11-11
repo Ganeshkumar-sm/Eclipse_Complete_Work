@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 		features = "./Featurefile/orangehrm.login.feature",
 		
-		glue = "com.hrm.stepdefinition",
+		glue = "./src/test/java/com/hrm/stepdefinition/HrmStepDefinition.java",
 		
 		dryRun = true,
 		

@@ -21,10 +21,10 @@ import testLeafPackage.TestDropDown;
 import testLeafPackage.TestEdit;
 import testLeafPackage.TestFrame;
 import testLeafPackage.TestHyperLink;
+import testLeafPackage.TestImage;
 import testLeafPackage.TestRadioButton;
 import testLeafPackage.TestTable;
 import testLeafPackage.TestWindows;
-import testLeafPackage.TextImage;
 
 public class DefinitionClass {
 
@@ -129,7 +129,7 @@ public class DefinitionClass {
 		initElements4.colorButton();
 		initElements4.sizeButton();
 		
-		TextImage initElements5 = PageFactory.initElements(driver, TextImage.class);
+		TestImage initElements5 = PageFactory.initElements(driver, TestImage.class);
 		System.out.println("\nIMAGE FUNCTION:");
 		initElements5.clickImage();
 		initElements5.homePageImage();
@@ -187,6 +187,7 @@ public class DefinitionClass {
 		System.out.println("\nCALENDAR FUNCTION:");
 		initElements12.calendarIcon();
 		initElements12.calendarField();
+		driver.quit();
 		
 		
 		

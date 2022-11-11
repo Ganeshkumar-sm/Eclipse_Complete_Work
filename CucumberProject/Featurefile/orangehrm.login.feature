@@ -1,5 +1,6 @@
 Feature: Test the registration and login functionality of orangeHRM
 
+@Login
   Scenario: check the login functionality
     Given user enter the valid url
     When user gives the username and password
